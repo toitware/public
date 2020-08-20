@@ -4,7 +4,7 @@ With this public GitHub site for the Toitware's IoT Platform, it is possible for
 
 ## Issue categories
 
-Look in https://github.com/toitware/public/labels for te available issue labels.
+Look in https://github.com/toitware/public/labels for the available issue labels.
 
 ## Create an issue
 
