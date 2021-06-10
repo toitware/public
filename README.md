@@ -8,4 +8,4 @@ See the current list of [known issues](https://github.com/toitware/public/issues
 Toit community projects
 ===========================
 
-For Toit projects that you would like to share with the Toit community, add a link in the [Toit wiki page](https://github.com/toitware/public/wiki#toit-community-projects).
+If you would like to share your own Toit projects with the Toit community, add a link to your project in the [Toit wiki page](https://github.com/toitware/public/wiki#toit-community-projects)
