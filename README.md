@@ -11,5 +11,5 @@ Toit community projects
 ===========================
 
 If you would like to share your own Toit projects with the Toit community, 
-add a link to your project on the 
+add a link to the project on the 
 [Toit wiki page](https://github.com/toitware/public/wiki#toit-community-projects)
